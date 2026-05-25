@@ -1,7 +1,6 @@
 # Customer Churn Analysis Project
 
-An end-to-end Customer Churn Analysis project built using SQL Server, Power BI, and Machine Learning. This project focuses on analyzing customer behavior, identifying churn patterns, and building predictive models to help businesses reduce customer attrition and improve retention strategies. :contentReference[oaicite:0]{index=0}
-
+An end-to-end Customer Churn Analysis project built using SQL Server, Power BI, and Machine Learning. This project focuses on analyzing customer behavior, identifying churn patterns, and building predictive models to help businesses reduce customer attrition and improve retention strategies.
 ---
 
 ## Project Overview
